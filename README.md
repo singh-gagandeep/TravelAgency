@@ -1,5 +1,5 @@
 # TravelAgency
-Feedback app that tourist can add feedback about the place they visited
+Feedback app that tourist can add feedbacks about the place they visited
 
 
 ![](TravelAgency.gif)
